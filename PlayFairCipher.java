@@ -87,7 +87,7 @@ public class PlayFairCipher
         return text.toString();
     }
 }
-
+/*
 run:
 Enter an encryption key (min length 6): ABCDEFGH
 Enter the message: TEXT
@@ -99,3 +99,4 @@ UDYS
 Decoded message: 
 TEXT
 BUILD SUCCESSFUL (total time: 18 seconds)
+*/
