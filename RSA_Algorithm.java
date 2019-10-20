@@ -25,3 +25,17 @@ public class RSA
         System.out.println("Recovered PlainText:" + recoveredPlainText);
     }
 }
+/*
+run:
+Enter Encryption Constant:
+17
+Enter Prime Number 1:
+7
+Enter Prime Number 2:
+11
+Enter PlainText Message:
+8
+CipherText:57
+Recovered PlainText:8
+BUILD SUCCESSFUL (total time: 31 seconds)
+*/
