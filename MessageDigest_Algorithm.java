@@ -24,3 +24,11 @@ public class MD5
         System.out.println("MessageDigest in HexaDecimal Format: " + hashValue);
     }
 }
+/*
+run:
+Enter the message
+Rahul Dravid is the best
+Message: Rahul Dravid is the best
+MessageDigest in HexaDecimal Format: a4f9986fd57fb74ae3a9ef7c66fddf1a
+BUILD SUCCESSFUL (total time: 14 seconds)
+*/
