@@ -31,3 +31,11 @@ public class VigenereCipher
         System.out.println("Recovered Plain Text="+String.valueOf(recoveredPlainTextChar).toLowerCase());
     }
 }
+/*
+run:
+wearediscoveredsaveyourself
+deceptive
+Cipher Text=ZICVTWQNGRZGVTWAVZHCQYGLMGJ
+Recovered Plain Text=wearediscoveredsaveyourself
+BUILD SUCCESSFUL (total time: 32 seconds)
+*/
