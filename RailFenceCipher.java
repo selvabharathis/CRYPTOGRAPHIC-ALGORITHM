@@ -54,7 +54,7 @@ public class RailFenceCipher
     }
     public static void main(String[] args) 
     {
-        String data = "GEEKSFORGEEKS";
+        String data = "meetmeaftertogaparty";
 	RailFenceCipher railFenceCipher = new RailFenceCipher(2);
 	String encrypted =railFenceCipher.getEncryptedData(data);
 	System.out.println("encryption = "+encrypted);
@@ -62,3 +62,9 @@ public class RailFenceCipher
 	System.out.println("decryption = "+decrypted);
     }
 }
+/*
+run:
+encryption = mematroaatetefetgpry
+decryption = meetmeaftertogaparty
+BUILD SUCCESSFUL (total time: 0 seconds)
+*/
