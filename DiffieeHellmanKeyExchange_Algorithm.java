@@ -25,3 +25,19 @@ public class DiffieHellman
         System.out.println("Shared Secret Key Computed By B:" + sharedSecretKeyB);
     }
 }
+/*
+run:
+Enter the prime number:
+353
+Enter the primitive root of prime number:
+3
+Enter the private key of A:
+45
+Enter the private key of B:
+50
+Public Key of A:143
+Public Key of B:155
+Shared Secret Key Computed By A:197
+Shared Secret Key Computed By B:197
+BUILD SUCCESSFUL (total time: 23 seconds)
+*/
