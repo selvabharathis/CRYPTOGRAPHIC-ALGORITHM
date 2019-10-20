@@ -40,3 +40,11 @@ public class CaesarCipher
         System.out.println("DecryptedText is "+decrypt(encrypt(message,3).toString(),3));
     }
 }
+/*
+run:
+Enter the string for encryption=
+sample
+CipherText is vdpsoh
+DecryptedText is sample
+BUILD SUCCESSFUL (total time: 10 seconds)
+*/
