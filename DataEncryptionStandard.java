@@ -43,3 +43,14 @@ public class DES
         System.out.println("Recovered PlainText : " + new String(plainText));
     }
 }
+/*
+run:
+Enter the plaintext message
+how are you
+PlainText in the binary form: 110100001101111011101110010000001100001011100100110010100100000011110010110111101110101
+The Key is:mEC86oZKufg=
+CipherText in the binary form: 11011000010011100010101111111100101100010010000101100000001010101110100101101001101101001111111001000011001000011110110101011100
+
+Recovered PlainText : how are you
+BUILD SUCCESSFUL (total time: 46 seconds)
+*/
