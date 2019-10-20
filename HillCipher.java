@@ -1,5 +1,5 @@
 package hillcipher;
-// NOT WROTE FOR DECRYPTION
+// NOT WROTE FOR DECRYPTION - incomplete
 import java.util.Scanner;
 public class HillCipher 
 {
