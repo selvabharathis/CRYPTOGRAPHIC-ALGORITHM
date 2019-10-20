@@ -33,3 +33,10 @@ public class DigitalSignatureStandard
             System.out.println("Signature is not matching");
     }
 }
+/*
+run:
+how are you
+Digital Signature in HEX Format:302c02141a2b589459737865557125b7cacf996376644d91021417365a811832c85a98fb36527f4cf686f98cbbba
+Signature is verified
+BUILD SUCCESSFUL (total time: 40 seconds)
+*/
